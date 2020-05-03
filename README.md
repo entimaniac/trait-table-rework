@@ -1,3 +1,5 @@
+A live version of this project can be found here: https://entimaniac.github.io/trait-table-rework/
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
