@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/trait-table-rework/static/css/main.55826da6.chunk.css",
+    "main.js": "/trait-table-rework/static/js/main.58ebec61.chunk.js",
+    "main.js.map": "/trait-table-rework/static/js/main.58ebec61.chunk.js.map",
+    "runtime-main.js": "/trait-table-rework/static/js/runtime-main.470d81dc.js",
+    "runtime-main.js.map": "/trait-table-rework/static/js/runtime-main.470d81dc.js.map",
+    "static/js/2.f972f432.chunk.js": "/trait-table-rework/static/js/2.f972f432.chunk.js",
+    "static/js/2.f972f432.chunk.js.map": "/trait-table-rework/static/js/2.f972f432.chunk.js.map",
+    "index.html": "/trait-table-rework/index.html",
+    "precache-manifest.9fd94cccfdc894c7114109e3516e8128.js": "/trait-table-rework/precache-manifest.9fd94cccfdc894c7114109e3516e8128.js",
+    "service-worker.js": "/trait-table-rework/service-worker.js",
+    "static/css/main.55826da6.chunk.css.map": "/trait-table-rework/static/css/main.55826da6.chunk.css.map",
+    "static/js/2.f972f432.chunk.js.LICENSE.txt": "/trait-table-rework/static/js/2.f972f432.chunk.js.LICENSE.txt",
+    "static/media/logo.svg": "/trait-table-rework/static/media/logo.5d5d9eef.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.470d81dc.js",
+    "static/js/2.f972f432.chunk.js",
+    "static/css/main.55826da6.chunk.css",
+    "static/js/main.58ebec61.chunk.js"
+  ]
+}
