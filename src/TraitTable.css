@@ -1,0 +1,34 @@
+table {
+  /*border: 9px solid green;*/
+  width: 100%;
+}
+
+/*th {*/
+/*  border: 5px solid blue;*/
+/*}*/
+
+/*td {*/
+/*  border: 1px solid yellow;*/
+/*}*/
+
+.icon-cell {
+  text-align: right;
+}
+
+.hide-this {
+  visibility: hidden;
+}
+
+.add-row-button {
+  width: 100%;
+}
+
+.submit-button {
+  justify-content: center;
+  alignment: center;
+}
+
+.paper-container {
+  margin: 16px;
+  padding: 16px;
+}
